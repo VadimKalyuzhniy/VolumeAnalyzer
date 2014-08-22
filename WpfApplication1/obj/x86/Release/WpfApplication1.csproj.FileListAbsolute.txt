@@ -1,0 +1,164 @@
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\WpfApplication1.exe.config
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\WpfApplication1.exe
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\WpfApplication1.pdb
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ecng.Collections.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ecng.Common.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ecng.ComponentModel.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ecng.Serialization.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ecng.Xaml.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\StockSharp.Algo.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\StockSharp.Algo.Indicators.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\StockSharp.BusinessEntities.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\StockSharp.Logging.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\StockSharp.Quik.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\StockSharp.Xaml.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\PowerCollections.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\SmartFormat.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ecng.Reflection.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ecng.Configuration.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\ClrPatch.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ecng.Interop.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\WPFToolkit.Extended.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ecng.Data.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ecng.Security.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\LumiSoft.Net.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\DotNetDBF.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\HtmlAgilityPack.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ecng.Net.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ionic.Zip.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\libalglib.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ecng.Serialization.FieldFactories.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\log4net.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Google.GData.Calendar.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Google.GData.Client.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Google.GData.Extensions.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\NDde.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\ManagedWinapi.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ookii.Dialogs.Wpf.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Hardcodet.Wpf.GenericTreeView.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Microsoft.Practices.Unity.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\NPOI.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ecng.Transactions.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Google.GData.AccessControl.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\StockSharp.Algo.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\StockSharp.Algo.Indicators.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\StockSharp.BusinessEntities.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\StockSharp.Logging.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\StockSharp.Quik.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\StockSharp.Xaml.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\LumiSoft.Net.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\HtmlAgilityPack.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\log4net.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Ookii.Dialogs.Wpf.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Hardcodet.Wpf.GenericTreeView.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Microsoft.Practices.Unity.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\bin\x86\Release\Microsoft.Practices.Unity.Interception.xml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.g.resources
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.exe
+C:\Users\vadim\Desktop\Dart Weider\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.pdb
+G:\Dart!\WpfApplication1 - копия\WpfApplication1\bin\x86\Release\WpfApplication1.exe.config
+G:\Dart!\WpfApplication1 - копия\WpfApplication1\obj\x86\Release\WpfApplication1.exe
+G:\Dart!\WpfApplication1 - копия\WpfApplication1\obj\x86\Release\WpfApplication1.pdb
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\WpfApplication1.exe.config
+G:\Dart!\Объемы\WpfApplication1\obj\x86\Release\WpfApplication1.exe
+G:\Dart!\Объемы\WpfApplication1\obj\x86\Release\WpfApplication1.pdb
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\WpfApplication1.exe
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\WpfApplication1.pdb
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ecng.Collections.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ecng.Common.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ecng.ComponentModel.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ecng.Configuration.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ecng.Data.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ecng.Serialization.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ecng.Xaml.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\StockSharp.Algo.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\StockSharp.BusinessEntities.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\StockSharp.Fix.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\StockSharp.Logging.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\StockSharp.Quik.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\StockSharp.Xaml.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\PowerCollections.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\SmartFormat.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ecng.Reflection.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Microsoft.Practices.Unity.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Microsoft.Practices.ServiceLocation.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Microsoft.Practices.Unity.Configuration.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ecng.Transactions.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\ClrPatch.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ecng.Interop.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Xceed.Wpf.Toolkit.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ookii.Dialogs.Wpf.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\StockSharp.Community.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\HtmlAgilityPack.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ecng.Security.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\LumiSoft.Net.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\DotNetDBF.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\libalglib.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ecng.Net.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ionic.Zip.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ecng.Serialization.FieldFactories.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\QuickFix.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\log4net.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Google.GData.Calendar.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Google.GData.Client.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Google.GData.Extensions.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\ManagedWinapi.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\NDde.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Abt.Controls.SciChart.Wpf.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Hardcodet.Wpf.GenericTreeView.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\NPOI.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ecng.Web.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Google.GData.AccessControl.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Microsoft.Practices.Unity.Interception.dll
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\StockSharp.Algo.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\StockSharp.BusinessEntities.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\StockSharp.Fix.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\StockSharp.Logging.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\StockSharp.Quik.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\StockSharp.Xaml.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\PowerCollections.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Microsoft.Practices.Unity.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Microsoft.Practices.ServiceLocation.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Microsoft.Practices.Unity.Configuration.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Ookii.Dialogs.Wpf.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\StockSharp.Community.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\HtmlAgilityPack.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\LumiSoft.Net.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\DotNetDBF.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\QuickFix.pdb
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\QuickFix.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\log4net.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Abt.Controls.SciChart.Wpf.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Hardcodet.Wpf.GenericTreeView.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\Dart!\Объемы\WpfApplication1\bin\x86\Release\Microsoft.Practices.Unity.Interception.xml
+G:\Dart!\Объемы\WpfApplication1\obj\x86\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+G:\Dart!\Объемы\WpfApplication1\obj\x86\Release\MainWindow.baml
+G:\Dart!\Объемы\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+G:\Dart!\Объемы\WpfApplication1\obj\x86\Release\App.g.cs
+G:\Dart!\Объемы\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.cache
+G:\Dart!\Объемы\WpfApplication1\obj\x86\Release\WpfApplication1.g.resources
+G:\Dart!\Объемы\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+G:\Dart!\Объемы\WpfApplication1\obj\x86\Release\WpfApplication1.csproj.GenerateResource.Cache

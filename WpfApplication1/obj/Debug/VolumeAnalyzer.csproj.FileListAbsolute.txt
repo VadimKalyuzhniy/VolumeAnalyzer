@@ -1,0 +1,426 @@
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\VolumeAnalyzer.exe.config
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\VolumeAnalyzer.exe
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\VolumeAnalyzer.pdb
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Collections.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Common.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.ComponentModel.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Configuration.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Data.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Serialization.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Xaml.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Algo.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.BusinessEntities.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Fix.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Logging.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Quik.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Xaml.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\PowerCollections.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\SmartFormat.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Reflection.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Transactions.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\ClrPatch.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Interop.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Xceed.Wpf.Toolkit.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ookii.Dialogs.Wpf.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Community.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\HtmlAgilityPack.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Security.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\LumiSoft.Net.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\DotNetDBF.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\libalglib.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Net.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ionic.Zip.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Serialization.FieldFactories.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\QuickFix.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\log4net.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Google.GData.Calendar.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Google.GData.Client.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Google.GData.Extensions.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\ManagedWinapi.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\NDde.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Abt.Controls.SciChart.Wpf.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Hardcodet.Wpf.GenericTreeView.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\NPOI.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Web.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Google.GData.AccessControl.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Algo.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.BusinessEntities.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Fix.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Logging.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Quik.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Xaml.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\PowerCollections.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Ookii.Dialogs.Wpf.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Community.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\HtmlAgilityPack.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\LumiSoft.Net.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\DotNetDBF.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\QuickFix.pdb
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\QuickFix.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\log4net.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Abt.Controls.SciChart.Wpf.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Hardcodet.Wpf.GenericTreeView.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+G:\Dart!\Объемы\WpfApplication1\obj\Debug\MainWindow.baml
+G:\Dart!\Объемы\WpfApplication1\obj\Debug\MainWindow.g.cs
+G:\Dart!\Объемы\WpfApplication1\obj\Debug\App.g.cs
+G:\Dart!\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer_MarkupCompile.cache
+G:\Dart!\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.g.resources
+G:\Dart!\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.Properties.Resources.resources
+G:\Dart!\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.csproj.GenerateResource.Cache
+G:\Dart!\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.exe
+G:\Dart!\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.pdb
+G:\Dart!\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.csprojResolveAssemblyReference.cache
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\VolumeAnalyzer.exe.config
+W:\Dart!\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.csprojResolveAssemblyReference.cache
+W:\Dart!\Объемы\WpfApplication1\obj\Debug\MainWindow.baml
+W:\Dart!\Объемы\WpfApplication1\obj\Debug\MainWindow.g.cs
+W:\Dart!\Объемы\WpfApplication1\obj\Debug\App.g.cs
+W:\Dart!\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer_MarkupCompile.cache
+W:\Dart!\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.g.resources
+W:\Dart!\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.Properties.Resources.resources
+W:\Dart!\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.csproj.GenerateResource.Cache
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\VolumeAnalyzer.exe
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\VolumeAnalyzer.pdb
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Collections.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Common.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.ComponentModel.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Configuration.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Data.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Serialization.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Xaml.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Algo.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.BusinessEntities.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Logging.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Quik.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Xaml.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\PowerCollections.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\SmartFormat.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Reflection.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Transactions.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\ClrPatch.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Interop.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\WPFToolkit.Extended.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Security.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\LumiSoft.Net.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\DotNetDBF.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\HtmlAgilityPack.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Net.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ionic.Zip.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\libalglib.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ecng.Serialization.FieldFactories.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\log4net.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Google.GData.Calendar.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Google.GData.Client.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Google.GData.Extensions.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\NDde.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\ManagedWinapi.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ookii.Dialogs.Wpf.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Hardcodet.Wpf.GenericTreeView.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\NPOI.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Google.GData.AccessControl.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Algo.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.BusinessEntities.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Logging.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Quik.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\StockSharp.Xaml.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\LumiSoft.Net.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\HtmlAgilityPack.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\log4net.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Ookii.Dialogs.Wpf.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Hardcodet.Wpf.GenericTreeView.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+W:\Dart!\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+W:\Dart!\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.exe
+W:\Dart!\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.pdb
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\VolumeAnalyzer.exe.config
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.exe
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.pdb
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\VolumeAnalyzer.exe
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\VolumeAnalyzer.pdb
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\PowerCollections.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\SmartFormat.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Ecng.Reflection.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Ecng.Transactions.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\ClrPatch.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Ecng.Interop.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\WPFToolkit.Extended.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Ecng.Security.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\LumiSoft.Net.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\DotNetDBF.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Ecng.Net.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Ionic.Zip.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\libalglib.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Ecng.Serialization.FieldFactories.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\log4net.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Google.GData.Calendar.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Google.GData.Client.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Google.GData.Extensions.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\NDde.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\StockSharp.Xaml.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\ManagedWinapi.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\NPOI.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Hardcodet.Wpf.GenericTreeView.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\StockSharp.Algo.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\StockSharp.BusinessEntities.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\StockSharp.Logging.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\StockSharp.Quik.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\LumiSoft.Net.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\log4net.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\StockSharp.Xaml.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Hardcodet.Wpf.GenericTreeView.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer_MarkupCompile.cache
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.g.resources
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.Properties.Resources.resources
+C:\Users\vadim\Desktop\Объемы\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.csproj.GenerateResource.Cache
+C:\Users\vadim\Desktop\Объемы\WpfApplication1\bin\Debug\VolumeAnalyzer.exe.config
+C:\Users\vadim\Desktop\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.exe
+C:\Users\vadim\Desktop\Объемы\WpfApplication1\obj\Debug\VolumeAnalyzer.pdb
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\VolumeAnalyzer.exe.config
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.exe
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.pdb
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\VolumeAnalyzer.exe
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\VolumeAnalyzer.pdb
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\PowerCollections.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\SmartFormat.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Reflection.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Transactions.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\ClrPatch.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Interop.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\WPFToolkit.Extended.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Security.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\LumiSoft.Net.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\DotNetDBF.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Net.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Ionic.Zip.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\libalglib.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Serialization.FieldFactories.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\log4net.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Google.GData.Calendar.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Google.GData.Client.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Google.GData.Extensions.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\NDde.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Xaml.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\ManagedWinapi.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\NPOI.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Hardcodet.Wpf.GenericTreeView.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Algo.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.BusinessEntities.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Logging.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Quik.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\LumiSoft.Net.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\log4net.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Xaml.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Hardcodet.Wpf.GenericTreeView.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer_MarkupCompile.cache
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.g.resources
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.Properties.Resources.resources
+C:\Users\vadim\Desktop\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.csproj.GenerateResource.Cache
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\VolumeAnalyzer.exe.config
+W:\Разработка\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.exe
+W:\Разработка\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.pdb
+W:\Разработка\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.csprojResolveAssemblyReference.cache
+W:\Разработка\Объемы + работа с БД\WpfApplication1\obj\Debug\MainWindow.baml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\obj\Debug\MainWindow.g.cs
+W:\Разработка\Объемы + работа с БД\WpfApplication1\obj\Debug\App.g.cs
+W:\Разработка\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer_MarkupCompile.cache
+W:\Разработка\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.g.resources
+W:\Разработка\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.Properties.Resources.resources
+W:\Разработка\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.csproj.GenerateResource.Cache
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\VolumeAnalyzer.exe
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\VolumeAnalyzer.pdb
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Collections.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Common.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.ComponentModel.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Configuration.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Data.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Serialization.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Xaml.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Algo.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.BusinessEntities.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Logging.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Quik.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\PowerCollections.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\SmartFormat.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Reflection.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Transactions.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\ClrPatch.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Interop.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\WPFToolkit.Extended.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Security.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\LumiSoft.Net.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\DotNetDBF.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\HtmlAgilityPack.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Net.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ionic.Zip.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\libalglib.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Serialization.FieldFactories.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\log4net.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Google.GData.Calendar.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Google.GData.Client.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Google.GData.Extensions.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\NDde.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Xaml.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\ManagedWinapi.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ookii.Dialogs.Wpf.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\NPOI.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Google.GData.AccessControl.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Hardcodet.Wpf.GenericTreeView.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Algo.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.BusinessEntities.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Logging.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Quik.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\LumiSoft.Net.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\HtmlAgilityPack.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\log4net.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Xaml.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Ookii.Dialogs.Wpf.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Hardcodet.Wpf.GenericTreeView.xml
+W:\Разработка\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\VolumeAnalyzer.exe.config
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.exe
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.pdb
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\VolumeAnalyzer.exe
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\VolumeAnalyzer.pdb
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\PowerCollections.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\SmartFormat.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Reflection.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Transactions.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\ClrPatch.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Interop.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\WPFToolkit.Extended.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Security.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\LumiSoft.Net.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\DotNetDBF.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\HtmlAgilityPack.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Net.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Ionic.Zip.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\libalglib.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Ecng.Serialization.FieldFactories.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\log4net.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Google.GData.Calendar.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Google.GData.Client.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Google.GData.Extensions.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\NDde.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Xaml.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\ManagedWinapi.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Ookii.Dialogs.Wpf.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\NPOI.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Google.GData.AccessControl.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Hardcodet.Wpf.GenericTreeView.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Algo.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.BusinessEntities.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Logging.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Quik.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\LumiSoft.Net.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\HtmlAgilityPack.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\log4net.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\StockSharp.Xaml.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Ookii.Dialogs.Wpf.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Hardcodet.Wpf.GenericTreeView.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.csprojResolveAssemblyReference.cache
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\obj\Debug\MainWindow.baml
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\obj\Debug\App.g.cs
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer_MarkupCompile.cache
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.g.resources
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.Properties.Resources.resources
+D:\development\DW + Биржа\Объемы + работа с БД\WpfApplication1\obj\Debug\VolumeAnalyzer.csproj.GenerateResource.Cache
