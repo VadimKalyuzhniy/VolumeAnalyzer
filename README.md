@@ -18,3 +18,5 @@ After that just configure Quik terminal according to:
 http://stocksharp.com/doc/?topic=html/5c13da7b-b6e4-4fd4-958a-66c93c58b941.htm
 
 You are ready to start!
+
+https://github.com/stocksharp/stocksharp/
